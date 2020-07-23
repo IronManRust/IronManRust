@@ -1,6 +1,6 @@
 # Shawn Headrick | @IronManRust
 
-[![Shawn Headrick, Octocat](shawn-headrick-octocat.png "Shawn Headrick, Octocat")](shawn-headrick-octocat.png)
+[![Shawn Headrick, Octocat](https://raw.githubusercontent.com/IronManRust/IronManRust/master/shawn-headrick-octocat.png "Shawn Headrick, Octocat")](https://raw.githubusercontent.com/IronManRust/IronManRust/master/shawn-headrick-octocat.png)
 
 Hello there, and welcome to my GitHub [profile](https://www.github.com/IronManRust)!
 
