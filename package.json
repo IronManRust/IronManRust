@@ -1,0 +1,32 @@
+{
+    "name": "shawn-headrick-github-profile",
+    "version": "1.0.0",
+    "description": "Shawn Headrick's GitHub Profile",
+    "keywords": [
+        "shawn headrick",
+        "ironmanrust",
+        "github",
+        "profile"
+    ],
+    "author": {
+        "name": "Shawn Headrick",
+        "email": "shawn_headrick@yahoo.com",
+        "url": "https://www.github.com/IronManRust"
+    },
+    "homepage": "https://www.github.com/IronManRust/IronManRust",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/IronManRust/IronManRust.git"
+    },
+    "bugs": {
+        "url": "https://www.github.com/IronManRust/IronManRust/issues"
+    },
+    "license": "MIT",
+    "scripts": {
+        "serve": "./node_modules/.bin/http-server ./"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "http-server": "^0.12.3"
+    }
+}
